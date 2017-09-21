@@ -1,0 +1,6 @@
+name: iOtchlan
+main: pl.inder00.otchlan.iOtchlan
+authors: [Inder00]
+version: 1.0
+commands:
+  otchlan:

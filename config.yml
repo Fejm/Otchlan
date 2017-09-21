@@ -1,0 +1,38 @@
+#################
+#
+# iOtchlan
+# Autor: Inder00
+# Wersja: 1.0
+#
+#################
+
+# Czas co jaki ma byc otwierana otchlan
+# Podaj czas w sekundach
+timmerDelay: 300
+
+# Nazwa swiatu, w ktorym ma dzialac ochlan
+worldName: 'world'
+
+# Czas przez, ktory otchlan ma byc otwarta
+openedTime: 20
+
+# Wiadomosc, gdy otchlan zostanie zamknieta
+otchlanClosed: '&8» &cOtchlan zostala zamknieta.'
+
+# Wiadomosc, gdy gracz probuje otworzyc otchlan, gdy jest zamknieta
+isClosed: '&cOtchlan jest obecnie zamknieta'
+
+# Wiadomosc, gdy otchlan jest pusta
+isEmpty: '&cOtchlan jest pusta'
+
+# Wiadomosci
+# CZAS:WIADOMOSC
+messages:
+- '120:&8» &7Otchlan zostanie otwarta za &62min.'
+- '60:&8» &7Otchlan zostanie otwarta za &61min.'
+- '30:&8» &7Otchlan zostanie otwarta za &630sek.'
+- '5:&8» &7Otchlan zostanie otwarta za &65sek.'
+- '3:&8» &7Otchlan zostanie otwarta za &63sek.'
+- '2:&8» &7Otchlan zostanie otwarta za &62sek.'
+- '1:&8» &7Otchlan zostanie otwarta za &61sek.'
+- '0:&8» &7Otchlan zostala otwarta &6/otchlan.'
